@@ -1,0 +1,18 @@
+{
+  "name": "atividade1-prog-web",
+  "version": "1.0.0",
+  "description": "Crie um código com Node.js e Typescript que vai solicitar ao usuário um nome, 4 notas de 0 a 10 e no final vai devolver no console um objeto com o nome do aluno, suas 4 notas e a média final calculada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
